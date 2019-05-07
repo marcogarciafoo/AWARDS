@@ -1,0 +1,28 @@
+body {background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7fOjfR9E2U6D5DqdTzYmFJ7W6H_iyBiiQMrjQowtIL5N6iTss");
+    background-repeat: repeat-x; 
+    text-align:center;
+}
+.wow { text-align:center;
+    font-family: 'Lobster','Pacifico' , cursive;
+    background-color: #b3d9ff;
+    margin:53px;
+    font-size: 300%;
+}
+.bruno { text-align:center;
+    font-family: 'Old Standard TT', serif;
+    background-color: #b3d9ff;
+    margin:53px;
+    font-size: 150%;
+}
+.bm{font-family: 'Amatic SC', cursive;
+    text-align:center;
+    background-color:#ffc299;
+}
+.bmv { 
+  justify-content: space-evenly;  
+  display: flex;
+}
+.vf {
+    height: 450px;
+    width: 600px;
+}
